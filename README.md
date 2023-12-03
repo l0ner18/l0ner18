@@ -14,11 +14,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
----
+
 ### My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=l0ner18&theme=dark&border_radius=8)](https://git.io/streak-stats)
 <div align="center">
-  
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0ner18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
