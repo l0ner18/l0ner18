@@ -18,6 +18,6 @@
 ### My Stats :
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=l0ner18&theme=dark&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=l0ner18&theme=dark&border_radius=8)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0ner18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
