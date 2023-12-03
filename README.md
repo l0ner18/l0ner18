@@ -1,7 +1,7 @@
 ### About Me
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>&nbsp;
-  <p>I am a Frontnd Developer from Russia.</p>
+  <p>I am a Frontend Developer from Russia.</p>
 </div>
 
 ---
